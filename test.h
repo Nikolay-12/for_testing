@@ -10,5 +10,5 @@ namespace space1
 
 namespace space2
 {
-  float func(num1, num2);
+  void func(num1, num2);
 }
