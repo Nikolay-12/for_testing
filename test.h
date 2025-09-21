@@ -6,7 +6,7 @@
 #define HC595_STcp_PIN 3 // Пин для защелкивания выходов сдвиговых регистов
 #define HC595_SHcp_PIN 4 // Пин тактовых импульсов для сдвиговых регистов
 
-namespace 74HC595
+namespace HC595
 {
   void setting_up_reg_pins();
   void set_bit_on_DS_pin(bool bit);
