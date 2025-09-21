@@ -1,3 +1,5 @@
+#pragma once
+
 #define num 1.2
 #define num 5.0
 
